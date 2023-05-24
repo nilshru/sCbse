@@ -1,6 +1,6 @@
 .formContainer {
   background-color: #a7bcff;
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -245,8 +245,8 @@
 
  .home .container .chat .messages .message {
   display: flex;
-  gap: 12px;
-  margin-bottom: 20px;
+  gap: 2px;
+  margin-bottom: 10px;
 }
 .home .container .chat .messages .owner {
 
